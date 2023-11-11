@@ -1,0 +1,25 @@
+.events-title {
+  text-align: center;
+  font-size: 4vmin;
+  margin: 50px 0;
+}
+.events-row {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+  gap: 20px;
+}
+.events-row-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  gap: 15px;
+}
+.events-row-col p {
+  text-align: center;
+}
+.events-row-col img {
+  width: 80%;
+}/*# sourceMappingURL=_events.css.map */

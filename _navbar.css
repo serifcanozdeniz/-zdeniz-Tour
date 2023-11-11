@@ -1,0 +1,13 @@
+.navbar {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 20px;
+}
+.navbar-links {
+  display: flex;
+  gap: 10px;
+}/*# sourceMappingURL=_navbar.css.map */
